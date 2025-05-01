@@ -1,0 +1,201 @@
+{
+  "channels": [
+    {
+      "name": "bein sport 1",
+      "LWO": "http://nvpro.tv/live/221212127/111444545/35767.m3u8",
+      "SD": "http://tvc.raam.re:2082/live/ilhampa251121/00:7c:2d:1e:eb:43/169716.m3u8",
+      "HD": "http://nvpro.tv/live/221212127/111444545/332188.m3u8",
+      "FHD": "http://nvpro.tv/live/221212127/111444545/493682.m3u8"
+    },
+    {
+      "name": "bein sport 2",
+      "LWO": "http://nvpro.tv/live/221212127/111444545/906544.m3u8",
+      "SD": "http://tvc.raam.re:2082/live/ilhampa251121/00:7c:2d:1e:eb:43/169721.m3u8",
+      "HD": "http://nvpro.tv/live/221212127/111444545/934886.m3u8",
+      "FHD": "http://nvpro.tv/live/221212127/111444545/235756.m3u8"
+    },
+    {
+      "name": "bein sport 3",
+      "LWO": "http://nvpro.tv/live/221212127/111444545/652548.m3u8",
+      "SD": "http://nvpro.tv/live/221212127/111444545/34592.m3u8",
+      "HD": "http://nvpro.tv/live/221212127/111444545/934886.m3u8",
+      "FHD": "http://nvpro.tv/live/221212127/111444545/162154.m3u8"
+    },
+    {
+      "name": "bein sport 4",
+      "LWO": "http://nvpro.tv/live/221212127/111444545/243256.m3u8",
+      "SD": "http://nvpro.tv/live/221212127/111444545/914326.m3u8",
+      "HD": "http://nvpro.tv/live/221212127/111444545/716559.m3u8",
+      "FHD": "http://nvpro.tv/live/221212127/111444545/367434.m3u8"
+    },
+    {
+      "name": "bein sport5",
+      "LWO": "http://nvpro.tv/live/221212127/111444545/35682.m3u8",
+      "SD": "http://nvpro.tv/live/221212127/111444545/478444.m3u8",
+      "HD": "http://nvpro.tv/live/221212127/111444545/844940.m3u8",
+      "FHD": "http://nvpro.tv/live/221212127/111444545/99529.m3u8"
+    },
+    {
+      "name": "bein sport6",
+      "LWO": "http://nvpro.tv/live/221212127/111444545/641814.m3u8",
+      "SD": "http://nvpro.tv/live/221212127/111444545/7864 31.m3u8",
+      "HD": "http://nvpro.tv/live/221212127/111444545/780270.m3u8",
+      "FHD": "http://nvpro.tv/live/221212127/111444545/65328.m3u8"
+    },
+    {
+      "name": "bein sport7",
+      "LWO": "http://nvpro.tv/live/221212127/111444545/909757.m3u8",
+      "SD": "http://nvpro.tv/live/221212127/111444545/102387.m3u8",
+      "HD": "http://nvpro.tv/live/221212127/111444545/882382.m3u8",
+      "FHD": "http://nvpro.tv/live/221212127/111444545/813393.m3u8"
+    },
+    {
+      "name": "bein sport xtra1",
+      "SD": "http://nvpro.tv/live/221212127/111444545/905204.m3u8",
+      "HD": "http://nvpro.tv/live/221212127/111444545/686268.m3u8",
+      "FHD": "http://nvpro.tv/live/221212127/111444545/152825.m3u8"
+    },
+    {
+      "name": "bein sport xtra2",
+      "SD": "http://nvpro.tv/live/221212127/111444545/630378.m3u8",
+      "HD": "http://nvpro.tv/live/221212127/111444545/182949.m3u8",
+      "FHD": "http://nvpro.tv/live/221212127/111444545/172538.m3u8"
+    },
+    {
+      "name": "SSC1",
+      "SD": "http://myhand.org:8080/live/18564384680810/32453150142289/423793.m3u8",
+      "HD": "http://myhand.org:8080/live/18564384680810/32453150142289/178360.m3u8",
+      "FHD": "http://myhand.org:8080/live/18564384680810/32453150142289/179707.m3u8"
+    },
+    {
+      "name": "SSC2",
+      "SD": "http://myhand.org:8080/live/18564384680810/32453150142289/423794.m3u8",
+      "HD": "http://myhand.org:8080/live/18564384680810/32453150142289/178386.m3u8",
+      "FHD": "http://myhand.org:8080/live/18564384680810/32453150142289/179708.m3u8"
+    },
+    {
+      "name": "AL KASS 1",
+      "SD": "http://xtv.ooo:8080/live/Arman007/Arman123/353010.m3u8",
+      "HD": "http://myhand.org:8080/live/18564384680810/32453150142289/33661.m3u8"
+    },
+    {
+      "name": "AL KASS2",
+      "SD": "http://myhand.org:8080/live/18564384680810/32453150142289/838835.m3u8",
+      "HD": "http://myhand.org:8080/live/18564384680810/32453150142289/33660.m3u8"
+    },
+    {
+      "name": "AD SPORT1",
+      "SD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/1041.m3u8",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/1041.m3u8"
+    },
+    {
+      "name": "AD SPORT2",
+      "SD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/1042.m3u8",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/1042.m3u8"
+    },
+    {
+      "name": "IRAQ SPORT",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/155142.m3u8"
+    },
+    {
+      "name": "Bein moive 1",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/67355.m3u8"
+    },
+    {
+      "name": "Bein moive 2",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/67356.m3u8"
+    },
+    {
+      "name": "Bein moive 3",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/67357.m3u8"
+    },
+    {
+      "name": "Bein moive 4",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/67358.m3u8"
+    },
+    {
+      "name": "Iraq General",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/66306.m3u8"
+    },
+    {
+      "name": "Iraq News",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/66336.m3u8"
+    },
+    {
+      "name": "AL Sharqiya",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/66308.m3u8"
+    },
+    {
+      "name": "Dijlah",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/66314.m3u8"
+    },
+    {
+      "name": "Utv",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/66305.m3u8"
+    },
+    {
+      "name": "AL Sumaria",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/66300.m3u8"
+    },
+    {
+      "name": "AL Forat",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/155134.m3u8"
+    },
+    {
+      "name": "Karbala",
+      "HD": "http://xtv.ooo:8080/live/Arman007/Arman123/351280.m3u8"
+    },
+    {
+      "name": "AL Anwar",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/66324.m3u8"
+    },
+    {
+      "name": "AL Jazeera",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/1071.m3u8"
+    },
+    {
+      "name": "Iraq 24",
+      "HD": "http://live.lynxiptv.xyz/live/313777735078/cC9VzsoiLa/155136.m3u8"
+    },
+    {
+      "name": "AL Hadath",
+      "HD": "http://yesimes.oknirvana.club:8880/live/D12m2446/47772223/1988.m3u8"
+    },
+    {
+      "name": "Imam Huseein 2",
+      "HD": "http://xtv.ooo:8080/live/Arman007/Arman123/380267.m3u8"
+    },
+    {
+      "name": "Mbc 1",
+      "HD": "http://xtv.ooo:8080/live/Arman007/Arman123/223868.m3u8"
+    },
+    {
+      "name": "Mbc 2",
+      "HD": "http://xtv.ooo:8080/live/Arman007/Arman123/223871.m3u8"
+    },
+    {
+      "name": "Mbc 3",
+      "HD": "http://xtv.ooo:8080/live/Arman007/Arman123/223874.m3u8"
+    },
+    {
+      "name": "Mbc Iraq",
+      "HD": "http://xtv.ooo:8080/live/Arman007/Arman123/223884.m3u8"
+    },
+    {
+      "name": "Nat Geo Abu Dhabi",
+      "HD": "http://xtv.ooo:8080/live/Arman007/Arman123/354903.m3u8"
+    },
+    {
+      "name": "Spacetoon",
+      "HD": "http://xtv.ooo:8080/live/Arman007/Arman123/354912.m3u8"
+    },
+    {
+      "name": "Majid",
+      "HD": "http://xtv.ooo:8080/live/Arman007/Arman123/354908.m3u8"
+    },
+    {
+      "name": "Cartoon Network",
+      "HD": "http://xtv.ooo:8080/live/Arman007/Arman123/381385.m3u8"
+    }
+  ]
+}
